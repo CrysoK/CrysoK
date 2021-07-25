@@ -1,5 +1,5 @@
 - 👋 Hi, my real name is Ezequiel Dzioba.
-- 🌱 I’m currently learning C and some JavaScript.
+- 🌱 I’m currently learning C, JavaScript and Python.
 - 📌 I love organizing things.
 
 <a href="https://github.com/CrysoK/CrysoK/blob/main/README.md">
