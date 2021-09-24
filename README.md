@@ -7,8 +7,6 @@
 Always learning.
 20 years old.
 
-## Contact
-
 <a target="_blank" href="mailto:crysoksfx@gmail.com">Email</a>
 
 <a target="_blank" href="https://instagram.com/crysok_">Instagram</a>
