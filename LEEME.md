@@ -44,7 +44,7 @@ Siempre aprendiendo.
 
 ## WakaTime Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CrysoK&theme=dark&locale=es&hide_title=true" alt="WakaTime Stats"
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CrysoK&theme=dark&locale=es&hide_title=true" alt="WakaTime Stats">
 
 ## GitHub Stats
 
