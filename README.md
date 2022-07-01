@@ -41,4 +41,4 @@ NOTA: Esto no indica el nivel de habilidad, es una métrica de GitHub sobre el u
 
 ---
 
-<!-- <img src="https://komarev.com/ghpvc/?username=crysok&label=Vistas&color=0e75b6&style=flat" alt="Vistas del perfil" title="+1 cada vez que la página es recargada"> -->
+<img src="https://komarev.com/ghpvc/?username=crysok&label=Vistas&color=0e75b6&style=flat" alt="Vistas del perfil" title="+1 cada vez que la página es recargada">
