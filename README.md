@@ -1,7 +1,7 @@
 ## Sobre mí
 
 Siempre aprendiendo.
-21 años.
+22 años.
 
 ## Habilidades
 
