@@ -39,8 +39,6 @@ Siempre aprendiendo.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrysoK&theme=dark&hide_title=true&locale=es" alt="Lenguajes más usados en GitHub">
 
-NOTA: Esto no indica el nivel de habilidad, es una métrica de GitHub sobre el uso de lenguajes en los repositorios.
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=crysok&label=Vistas&color=0e75b6&style=flat" alt="Vistas del perfil" title="+1 cada vez que la página es recargada">
