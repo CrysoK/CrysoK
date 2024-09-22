@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Flask-222222?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green"> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
 
-<img src="https://img.shields.io/badge/SQL-CCC.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAAAbUlEQVRIie2VQQ6AIAwER+PjJP7/A8A/9KCcJML2ojVM0nAAutm0ycIf2YAM7GIlIPQIJEPzUrFHoDxWqf6bDY0k/AssD3eWOdx41cEk9qo69j/ksUVNxhZ9UyBfpxo2cIZVk4At1SKwCuaccACWjEIuPdkqzgAAAABJRU5ErkJggg=="> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
 
 <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white">
 
