@@ -12,17 +12,17 @@
 
 Últimos 7 días
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CrysoK&theme=dark&hide_title=true" alt="WakaTime Stats">
+<img src="https://github-stats-extended.vercel.app/api/wakatime?username=CrysoK&theme=dark&hide_title=true" alt="WakaTime Stats">
 
 #### GitHub
 
 Resúmen
 
-<img src="https://github-readme-stats.vercel.app/api?username=CrysoK&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_title=true&locale=es" alt="GitHub Stats">
+<img src="https://github-stats-extended.vercel.app/api?username=CrysoK&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_title=true&locale=es" alt="GitHub Stats">
 
 Lenguajes
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrysoK&theme=dark&hide_title=true&locale=es" alt="Lenguajes más usados en GitHub">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CrysoK&theme=dark&hide_title=true&locale=es" alt="Lenguajes más usados en GitHub">
 
 ---
 
